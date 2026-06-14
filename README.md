@@ -36,5 +36,6 @@ I have 6+ years of experience building enterprise web applications using:
 
 - LinkedIn: linkedin.com/in/danielasgomez
 
-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1jdGpwOXdvbXlkaWFhcDlmcTRtbm80N2VkZTVud2NmamN1a2R2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif
+-
+- ![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1jdGpwOXdvbXlkaWFhcDlmcTRtbm80N2VkZTVud2NmamN1a2R2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif)
 
